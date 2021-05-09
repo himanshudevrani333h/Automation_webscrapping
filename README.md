@@ -5,4 +5,4 @@ Steps (run these commands)
 2- npm install puppeteer
 3- npm install request
 
-Then copy the code and run!
+Then copy the code from stonks.js and run!
