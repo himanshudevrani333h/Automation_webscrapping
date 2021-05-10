@@ -94,7 +94,7 @@ if (work == 2) {
                 console.log(nifty50[k] + " is indicating " + indication);
             }
         }
-        browser.close();
+         await browser.close();
     }
 
     main();
